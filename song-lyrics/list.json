@@ -68,5 +68,15 @@
     "link": "/memories.txt"
    }
   ]
+ },
+ {
+  "artist": "Rihanna",
+  "link": "/rihanna",
+  "songs": [
+   {
+    "title": "Diamonds",
+    "link": "/diamonds.txt"
+   }
+  ]
  }
 ]
