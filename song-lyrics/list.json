@@ -118,5 +118,15 @@
     "link": "/bury-the-light.txt"
    }
   ]
+ },
+ {
+  "artist": "Little Mix",
+  "link": "/little-mix",
+  "songs": [
+   {
+    "title": "Secret Love Song",
+    "link": "/secret-love-song.txt"
+   }
+  ]
  }
 ]
