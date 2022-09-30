@@ -38,5 +38,15 @@
     "link": "/somewhere-only-we-know.txt"
    }
   ]
+ },
+ {
+  "artist": "NCT Dream",
+  "link": "/nct-dream",
+  "songs": [
+   {
+    "title": "Beatbox",
+    "link": "/beatbox.txt"
+   }
+  ]
  }
 ]
