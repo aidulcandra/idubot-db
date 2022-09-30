@@ -108,5 +108,15 @@
     "link": "/the-nights.txt"
    }
   ]
+ },
+ {
+  "artist": "Casey Edwards",
+  "link": "/casey-edwards",
+  "songs": [
+   {
+    "title": "Bury the Light",
+    "link": "/bury-the-light.txt"
+   }
+  ]
  }
 ]
