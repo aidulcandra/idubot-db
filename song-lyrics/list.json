@@ -98,5 +98,15 @@
     "link": "/close-to-you.txt"
    }
   ]
+ },
+ {
+  "artist": "City Sessions",
+  "link": "/city-sessions",
+  "songs": [
+   {
+    "title": "The Nights",
+    "link": "/the-nights.txt"
+   }
+  ]
  }
 ]
