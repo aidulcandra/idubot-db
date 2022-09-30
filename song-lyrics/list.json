@@ -28,5 +28,15 @@
     "link": "/boulevard-of-broken-dreams.txt"
    }
   ]
+ },
+ {
+  "artist": "Keane",
+  "link": "/keane",
+  "songs": [
+   {
+    "title": "Somewhere Only We Know",
+    "link": "/somewhere-only-we-know.txt"
+   }
+  ]
  }
 ]
