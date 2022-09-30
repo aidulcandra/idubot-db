@@ -1,16 +1,37 @@
 [
  {
-  "artist":"Coldplay",
-  "link":"/coldplay",
-  "songs":[
-   {"title":"Viva La Vida", "link":"/viva-la-vida.txt"}
+  "artist": "Coldplay",
+  "link": "/coldplay",
+  "songs": [
+   {
+    "title": "Viva La Vida",
+    "link": "/viva-la-vida.txt"
+   }
   ]
  },
  {
-  "artist":"Linkin Park",
-  "link":"/linkin-park",
-  "songs":[
-   {"title":"Numb", "link":"/numb.txt"}
+  "artist": "Linkin Park",
+  "link": "/linkin-park",
+  "songs": [
+   {
+    "title": "Numb",
+    "link": "/numb.txt"
+   }
   ]
+ },
+ {
+  "artist": "Green Day",
+  "link": "/green-day",
+  "songs": [
+   {
+    "title": "Boulevard of Broken Dreams",
+    "link": "/boulevard-of-broken-dreams.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Green Day",
+  "title": "Boulevard of Broken Dreams",
+  "link": "/green-day/boulevard-of-broken-dreams.txt"
  }
 ]
