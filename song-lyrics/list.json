@@ -48,5 +48,15 @@
     "link": "/beatbox.txt"
    }
   ]
+ },
+ {
+  "artist": "Soegi Bornean",
+  "link": "/soegi-bornean",
+  "songs": [
+   {
+    "title": "Asmalibrasi",
+    "link": "/asmalibrasi.txt"
+   }
+  ]
  }
 ]
