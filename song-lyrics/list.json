@@ -128,5 +128,15 @@
     "link": "/secret-love-song.txt"
    }
   ]
+ },
+ {
+  "artist": "Sia",
+  "link": "/sia",
+  "songs": [
+   {
+    "title": "Chandelier",
+    "link": "/chandelier.txt"
+   }
+  ]
  }
 ]
