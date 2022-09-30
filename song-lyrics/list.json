@@ -138,5 +138,15 @@
     "link": "/chandelier.txt"
    }
   ]
+ },
+ {
+  "artist": "Alessia Cara",
+  "link": "/alessia-cara",
+  "songs": [
+   {
+    "title": "October",
+    "link": "/october.txt"
+   }
+  ]
  }
 ]
