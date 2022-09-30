@@ -148,5 +148,15 @@
     "link": "/october.txt"
    }
   ]
+ },
+ {
+  "artist": "Calum Scott",
+  "link": "/calum-scott",
+  "songs": [
+   {
+    "title": "Heaven",
+    "link": "/heaven.txt"
+   }
+  ]
  }
 ]
