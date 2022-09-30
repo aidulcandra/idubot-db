@@ -78,5 +78,15 @@
     "link": "/diamonds.txt"
    }
   ]
+ },
+ {
+  "artist": "Linked Horizon",
+  "link": "/linked-horizon",
+  "songs": [
+   {
+    "title": "Shinzo wo Sasageyo! (TV Size)",
+    "link": "/shinzo-wo-sasageyo-tv-size.txt"
+   }
+  ]
  }
 ]
