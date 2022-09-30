@@ -58,5 +58,15 @@
     "link": "/asmalibrasi.txt"
    }
   ]
+ },
+ {
+  "artist": "Maroon 5",
+  "link": "/maroon-5",
+  "songs": [
+   {
+    "title": "Memories",
+    "link": "/memories.txt"
+   }
+  ]
  }
 ]
