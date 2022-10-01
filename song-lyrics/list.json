@@ -414,5 +414,15 @@
     "link": "/bersama-bintang.txt"
    }
   ]
+ },
+ {
+  "artist": "Rosa Linn",
+  "link": "/rosa-linn",
+  "songs": [
+   {
+    "title": "SNAP",
+    "link": "/snap.txt"
+   }
+  ]
  }
 ]
