@@ -190,5 +190,15 @@
     "link": "/less-of-you.txt"
    }
   ]
+ },
+ {
+  "artist": "Madison Beer",
+  "link": "/madison-beer",
+  "songs": [
+   {
+    "title": "Reckless",
+    "link": "/reckless.txt"
+   }
+  ]
  }
 ]
