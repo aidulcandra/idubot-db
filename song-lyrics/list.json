@@ -270,5 +270,15 @@
     "link": "/doja.txt"
    }
   ]
+ },
+ {
+  "artist": "Chris Brown",
+  "link": "/chris-brown",
+  "songs": [
+   {
+    "title": "Under The Influence",
+    "link": "/under-the-influence.txt"
+   }
+  ]
  }
 ]
