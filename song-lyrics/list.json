@@ -458,5 +458,15 @@
     "link": "/0000-zero-oclock.txt"
    }
   ]
+ },
+ {
+  "artist": "Metallica",
+  "link": "/metallica",
+  "songs": [
+   {
+    "title": "Enter Sandman",
+    "link": "/enter-sandman.txt"
+   }
+  ]
  }
 ]
