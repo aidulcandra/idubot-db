@@ -370,5 +370,15 @@
     "link": "/ghost.txt"
    }
   ]
+ },
+ {
+  "artist": "Radwimps",
+  "link": "/radwimps",
+  "songs": [
+   {
+    "title": "Zenzenzense",
+    "link": "/zenzenzense.txt"
+   }
+  ]
  }
 ]
