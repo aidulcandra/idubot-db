@@ -438,5 +438,15 @@
     "link": "/wish-you-were-here.txt"
    }
   ]
+ },
+ {
+  "artist": "Avril Lavigne",
+  "link": "/avril-lavigne",
+  "songs": [
+   {
+    "title": "Wish You Were Here",
+    "link": "/wish-you-were-here.txt"
+   }
+  ]
  }
 ]
