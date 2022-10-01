@@ -300,5 +300,15 @@
     "link": "/sang-dewi.txt"
    }
   ]
+ },
+ {
+  "artist": "Mahalini Raharja",
+  "link": "/mahalini-raharja",
+  "songs": [
+   {
+    "title": "Kisah Sempurna",
+    "link": "/kisah-sempurna.txt"
+   }
+  ]
  }
 ]
