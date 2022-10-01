@@ -210,5 +210,15 @@
     "link": "/honesty.txt"
    }
   ]
+ },
+ {
+  "artist": "Daya",
+  "link": "/daya",
+  "songs": [
+   {
+    "title": "Sit Still, Look Pretty",
+    "link": "/sit-still-look-pretty.txt"
+   }
+  ]
  }
 ]
