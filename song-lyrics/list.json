@@ -200,5 +200,15 @@
     "link": "/reckless.txt"
    }
   ]
+ },
+ {
+  "artist": "Pink Sweats",
+  "link": "/pink-sweats",
+  "songs": [
+   {
+    "title": "Honesty",
+    "link": "/honesty.txt"
+   }
+  ]
  }
 ]
