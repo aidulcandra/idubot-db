@@ -360,5 +360,15 @@
     "link": "/the-champ.txt"
    }
   ]
+ },
+ {
+  "artist": "Justin Bieber",
+  "link": "/justin-bieber",
+  "songs": [
+   {
+    "title": "Ghost",
+    "link": "/ghost.txt"
+   }
+  ]
  }
 ]
