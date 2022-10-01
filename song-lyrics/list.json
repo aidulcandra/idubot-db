@@ -250,5 +250,15 @@
     "link": "/weak.txt"
    }
   ]
+ },
+ {
+  "artist": "Benzz",
+  "link": "/benzz",
+  "songs": [
+   {
+    "title": "Je M'appelle",
+    "link": "/je-mappelle.txt"
+   }
+  ]
  }
 ]
