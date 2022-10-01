@@ -310,5 +310,15 @@
     "link": "/kisah-sempurna.txt"
    }
   ]
+ },
+ {
+  "artist": "Last Child",
+  "link": "/last-child",
+  "songs": [
+   {
+    "title": "Duka",
+    "link": "/duka.txt"
+   }
+  ]
  }
 ]
