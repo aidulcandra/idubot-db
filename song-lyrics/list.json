@@ -350,5 +350,15 @@
     "link": "/usik.txt"
    }
   ]
+ },
+ {
+  "artist": "Ghostface Killah",
+  "link": "/ghostface-killah",
+  "songs": [
+   {
+    "title": "The Champ",
+    "link": "/the-champ.txt"
+   }
+  ]
  }
 ]
