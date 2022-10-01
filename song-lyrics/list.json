@@ -320,5 +320,15 @@
     "link": "/duka.txt"
    }
   ]
+ },
+ {
+  "artist": "Govinda",
+  "link": "/govinda",
+  "songs": [
+   {
+    "title": "Hal Hebat",
+    "link": "/hal-hebat.txt"
+   }
+  ]
  }
 ]
