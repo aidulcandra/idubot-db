@@ -220,5 +220,15 @@
     "link": "/sit-still-look-pretty.txt"
    }
   ]
+ },
+ {
+  "artist": "Beach Bunny",
+  "link": "/beach-bunny",
+  "songs": [
+   {
+    "title": "Prom Queen",
+    "link": "/prom-queen.txt"
+   }
+  ]
  }
 ]
