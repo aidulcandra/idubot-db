@@ -240,5 +240,15 @@
     "link": "/lost-control.txt"
    }
   ]
+ },
+ {
+  "artist": "Larissa Lambert",
+  "link": "/larissa-lambert",
+  "songs": [
+   {
+    "title": "Weak",
+    "link": "/weak.txt"
+   }
+  ]
  }
 ]
