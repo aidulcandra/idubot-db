@@ -472,5 +472,15 @@
     "link": "/enter-sandman.txt"
    }
   ]
+ },
+ {
+  "artist": "Khaled",
+  "link": "/khaled",
+  "songs": [
+   {
+    "title": "C'est La Vie",
+    "link": "/cest-la-vie.txt"
+   }
+  ]
  }
 ]
