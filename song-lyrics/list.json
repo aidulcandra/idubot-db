@@ -230,5 +230,15 @@
     "link": "/prom-queen.txt"
    }
   ]
+ },
+ {
+  "artist": "Sorana",
+  "link": "/sorana",
+  "songs": [
+   {
+    "title": "Lost Control",
+    "link": "/lost-control.txt"
+   }
+  ]
  }
 ]
