@@ -162,5 +162,15 @@
     "link": "/heaven.txt"
    }
   ]
+ },
+ {
+  "artist": "DPR LIVE",
+  "link": "/dpr-live",
+  "songs": [
+   {
+    "title": "Jasmine",
+    "link": "/jasmine.txt"
+   }
+  ]
  }
 ]
