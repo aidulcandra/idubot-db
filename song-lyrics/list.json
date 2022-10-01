@@ -428,5 +428,15 @@
     "link": "/snap.txt"
    }
   ]
+ },
+ {
+  "artist": "Pink Floyd",
+  "link": "/pink-floyd",
+  "songs": [
+   {
+    "title": "Wish You Were Here",
+    "link": "/wish-you-were-here.txt"
+   }
+  ]
  }
 ]
