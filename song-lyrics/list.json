@@ -576,5 +576,15 @@
     "link": "/pelangi.txt"
    }
   ]
+ },
+ {
+  "artist": "One Direction",
+  "link": "/one-direction",
+  "songs": [
+   {
+    "title": "Night Changes",
+    "link": "/night-changes.txt"
+   }
+  ]
  }
 ]
