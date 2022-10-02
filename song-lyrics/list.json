@@ -516,5 +516,15 @@
     "link": "/surrender.txt"
    }
   ]
+ },
+ {
+  "artist": "Avicii",
+  "link": "/avicii",
+  "songs": [
+   {
+    "title": "The Nights",
+    "link": "/the-nights.txt"
+   }
+  ]
  }
 ]
