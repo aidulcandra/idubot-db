@@ -566,5 +566,15 @@
     "link": "/someone-like-you.txt"
    }
   ]
+ },
+ {
+  "artist": "Boomerang",
+  "link": "/boomerang",
+  "songs": [
+   {
+    "title": "Pelangi",
+    "link": "/pelangi.txt"
+   }
+  ]
  }
 ]
