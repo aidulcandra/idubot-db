@@ -526,5 +526,15 @@
     "link": "/the-nights.txt"
    }
   ]
+ },
+ {
+  "artist": "Bondan Prakoso",
+  "link": "/bondan-prakoso",
+  "songs": [
+   {
+    "title": "Ya Sudahlah",
+    "link": "/ya-sudahlah.txt"
+   }
+  ]
  }
 ]
