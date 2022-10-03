@@ -626,5 +626,15 @@
     "link": "/pergi-tak-meninggalkan.txt"
    }
   ]
+ },
+ {
+  "artist": "Katy Perry",
+  "link": "/katy-perry",
+  "songs": [
+   {
+    "title": "The One That Got Away",
+    "link": "/the-one-that-got-away.txt"
+   }
+  ]
  }
 ]
