@@ -636,5 +636,15 @@
     "link": "/the-one-that-got-away.txt"
    }
   ]
+ },
+ {
+  "artist": "Eminem",
+  "link": "/eminem",
+  "songs": [
+   {
+    "title": "Not Afraid",
+    "link": "/not-afraid.txt"
+   }
+  ]
  }
 ]
