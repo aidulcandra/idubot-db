@@ -646,5 +646,15 @@
     "link": "/not-afraid.txt"
    }
   ]
+ },
+ {
+  "artist": "Dido",
+  "link": "/dido",
+  "songs": [
+   {
+    "title": "Thank You",
+    "link": "/thank-you.txt"
+   }
+  ]
  }
 ]
