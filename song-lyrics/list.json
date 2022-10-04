@@ -666,5 +666,15 @@
     "link": "/si-udin-bertanya.txt"
    }
   ]
+ },
+ {
+  "artist": "Westlife",
+  "link": "/westlife",
+  "songs": [
+   {
+    "title": "Soledad",
+    "link": "/soledad.txt"
+   }
+  ]
  }
 ]
