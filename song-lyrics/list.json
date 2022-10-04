@@ -794,5 +794,15 @@
     "link": "/before-you-go.txt"
    }
   ]
+ },
+ {
+  "artist": "Passenger",
+  "link": "/passenger",
+  "songs": [
+   {
+    "title": "Let Her Go",
+    "link": "/let-her-go.txt"
+   }
+  ]
  }
 ]
