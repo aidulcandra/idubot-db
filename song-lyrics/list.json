@@ -690,5 +690,15 @@
     "link": "/coptic-oud.txt"
    }
   ]
+ },
+ {
+  "artist": "Bruno Mars",
+  "link": "/bruno-mars",
+  "songs": [
+   {
+    "title": "Versace on the Floor",
+    "link": "/versace-on-the-floor.txt"
+   }
+  ]
  }
 ]
