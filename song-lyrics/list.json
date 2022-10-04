@@ -744,5 +744,15 @@
     "link": "/im-not-the-only-one.txt"
    }
   ]
+ },
+ {
+  "artist": "Dream Theater",
+  "link": "/dream-theater",
+  "songs": [
+   {
+    "title": "In the Name of God",
+    "link": "/in-the-name-of-god.txt"
+   }
+  ]
  }
 ]
