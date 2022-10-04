@@ -734,5 +734,15 @@
     "link": "/sempurna.txt"
    }
   ]
+ },
+ {
+  "artist": "Sam Smith",
+  "link": "/sam-smith",
+  "songs": [
+   {
+    "title": "I’m Not the Only One",
+    "link": "/im-not-the-only-one.txt"
+   }
+  ]
  }
 ]
