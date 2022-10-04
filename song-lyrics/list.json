@@ -656,5 +656,15 @@
     "link": "/thank-you.txt"
    }
   ]
+ },
+ {
+  "artist": "Wali Band",
+  "link": "/wali-band",
+  "songs": [
+   {
+    "title": "Si Udin Bertanya",
+    "link": "/si-udin-bertanya.txt"
+   }
+  ]
  }
 ]
