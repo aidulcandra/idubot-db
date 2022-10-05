@@ -1028,5 +1028,15 @@
     "link": "/freaking-me-out.txt"
    }
   ]
+ },
+ {
+  "artist": "Michael Jackson",
+  "link": "/michael-jackson",
+  "songs": [
+   {
+    "title": "Billie Jean",
+    "link": "/billie-jean.txt"
+   }
+  ]
  }
 ]
