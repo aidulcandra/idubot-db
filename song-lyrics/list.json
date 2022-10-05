@@ -856,5 +856,15 @@
     "link": "/animals.txt"
    }
   ]
+ },
+ {
+  "artist": "ONE OK ROCK",
+  "link": "/one-ok-rock",
+  "songs": [
+   {
+    "title": "Mad World",
+    "link": "/mad-world.txt"
+   }
+  ]
  }
 ]
