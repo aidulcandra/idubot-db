@@ -916,5 +916,15 @@
     "link": "/fly-me-to-the-moon.txt"
    }
   ]
+ },
+ {
+  "artist": "Melanie Martinez",
+  "link": "/melanie-martinez",
+  "songs": [
+   {
+    "title": "Play Date",
+    "link": "/play-date.txt"
+   }
+  ]
  }
 ]
