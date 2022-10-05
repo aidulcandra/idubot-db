@@ -936,5 +936,15 @@
     "link": "/cola-song.txt"
    }
   ]
+ },
+ {
+  "artist": "JT Machinima",
+  "link": "/jt-machinima",
+  "songs": [
+   {
+    "title": "To the Bone",
+    "link": "/to-the-bone.txt"
+   }
+  ]
  }
 ]
