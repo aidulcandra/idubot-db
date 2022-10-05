@@ -886,5 +886,15 @@
     "link": "/stereo-hearts.txt"
    }
   ]
+ },
+ {
+  "artist": "The Chainsmokers",
+  "link": "/the-chainsmokers",
+  "songs": [
+   {
+    "title": "Closer",
+    "link": "/closer.txt"
+   }
+  ]
  }
 ]
