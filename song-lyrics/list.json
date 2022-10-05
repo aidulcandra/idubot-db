@@ -1018,5 +1018,15 @@
     "link": "/perfect.txt"
    }
   ]
+ },
+ {
+  "artist": "Simple Plan",
+  "link": "/simple-plan",
+  "songs": [
+   {
+    "title": "Freaking Me Out",
+    "link": "/freaking-me-out.txt"
+   }
+  ]
  }
 ]
