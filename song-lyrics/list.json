@@ -926,5 +926,15 @@
     "link": "/play-date.txt"
    }
   ]
+ },
+ {
+  "artist": "INNA",
+  "link": "/inna",
+  "songs": [
+   {
+    "title": "Cola Song",
+    "link": "/cola-song.txt"
+   }
+  ]
  }
 ]
