@@ -838,5 +838,15 @@
     "link": "/lupa-lupa-ingat.txt"
    }
   ]
+ },
+ {
+  "artist": "Super Junior",
+  "link": "/super-junior",
+  "songs": [
+   {
+    "title": "MAMACITA",
+    "link": "/mamacita.txt"
+   }
+  ]
  }
 ]
