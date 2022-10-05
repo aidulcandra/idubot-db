@@ -1000,5 +1000,15 @@
     "link": "/someone-will-love-you-better.txt"
    }
   ]
+ },
+ {
+  "artist": "Ed Sheeran",
+  "link": "/ed-sheeran",
+  "songs": [
+   {
+    "title": "Perfect",
+    "link": "/perfect.txt"
+   }
+  ]
  }
 ]
