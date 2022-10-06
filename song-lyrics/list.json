@@ -1100,5 +1100,15 @@
     "link": "/jarumar-mata.txt"
    }
   ]
+ },
+ {
+  "artist": "Eric Clapton",
+  "link": "/eric-clapton",
+  "songs": [
+   {
+    "title": "Old Love",
+    "link": "/old-love.txt"
+   }
+  ]
  }
 ]
