@@ -1140,5 +1140,15 @@
     "link": "/wining-queen.txt"
    }
   ]
+ },
+ {
+  "artist": "Clean Bandit",
+  "link": "/clean-bandit",
+  "songs": [
+   {
+    "title": "Rockabye",
+    "link": "/rockabye.txt"
+   }
+  ]
  }
 ]
