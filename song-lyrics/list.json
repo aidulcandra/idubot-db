@@ -1070,5 +1070,15 @@
     "link": "/shut-down.txt"
    }
   ]
+ },
+ {
+  "artist": "We The Kings",
+  "link": "/we-the-kings",
+  "songs": [
+   {
+    "title": "Sad Song",
+    "link": "/sad-song.txt"
+   }
+  ]
  }
 ]
