@@ -1056,5 +1056,15 @@
     "link": "/slipping-through-my-fingers.txt"
    }
   ]
+ },
+ {
+  "artist": "BLACKPINK",
+  "link": "/blackpink",
+  "songs": [
+   {
+    "title": "Shut Down",
+    "link": "/shut-down.txt"
+   }
+  ]
  }
 ]
