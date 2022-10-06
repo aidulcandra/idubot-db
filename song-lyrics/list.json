@@ -1080,5 +1080,15 @@
     "link": "/sad-song.txt"
    }
   ]
+ },
+ {
+  "artist": "Shawn Mendes",
+  "link": "/shawn-mendes",
+  "songs": [
+   {
+    "title": "It’ll Be Okay",
+    "link": "/itll-be-okay.txt"
+   }
+  ]
  }
 ]
