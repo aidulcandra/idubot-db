@@ -1120,5 +1120,15 @@
     "link": "/dj-vu.txt"
    }
   ]
+ },
+ {
+  "artist": "Fujii Kaze",
+  "link": "/fujii-kaze",
+  "songs": [
+   {
+    "title": "Shinunoga E-Wa",
+    "link": "/shinunoga-e-wa.txt"
+   }
+  ]
  }
 ]
