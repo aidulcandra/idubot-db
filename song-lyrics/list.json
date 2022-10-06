@@ -1110,5 +1110,15 @@
     "link": "/old-love.txt"
    }
   ]
+ },
+ {
+  "artist": "Giorgio Moroder",
+  "link": "/giorgio-moroder",
+  "songs": [
+   {
+    "title": "Déjà Vu",
+    "link": "/dj-vu.txt"
+   }
+  ]
  }
 ]
