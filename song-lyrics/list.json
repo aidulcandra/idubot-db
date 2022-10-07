@@ -1158,5 +1158,15 @@
     "link": "/rockabye.txt"
    }
   ]
+ },
+ {
+  "artist": "Fiersa Besari",
+  "link": "/fiersa-besari",
+  "songs": [
+   {
+    "title": "Pengecut",
+    "link": "/pengecut.txt"
+   }
+  ]
  }
 ]
