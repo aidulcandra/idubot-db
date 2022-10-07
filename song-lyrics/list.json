@@ -1220,5 +1220,15 @@
     "link": "/not-your-barbie-girl.txt"
    }
   ]
+ },
+ {
+  "artist": "Black Eyed Peas",
+  "link": "/black-eyed-peas",
+  "songs": [
+   {
+    "title": "Pump It Harder",
+    "link": "/pump-it-harder.txt"
+   }
+  ]
  }
 ]
