@@ -1168,5 +1168,15 @@
     "link": "/pengecut.txt"
    }
   ]
+ },
+ {
+  "artist": "Titi DJ",
+  "link": "/titi-dj",
+  "songs": [
+   {
+    "title": "Sang Dewi",
+    "link": "/sang-dewi.txt"
+   }
+  ]
  }
 ]
