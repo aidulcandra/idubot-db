@@ -1260,5 +1260,15 @@
     "link": "/for-the-rest-of-my-life-ill-serve-him.txt"
    }
   ]
+ },
+ {
+  "artist": "Snow Patrol",
+  "link": "/snow-patrol",
+  "songs": [
+   {
+    "title": "Open Your Eyes",
+    "link": "/open-your-eyes.txt"
+   }
+  ]
  }
 ]
