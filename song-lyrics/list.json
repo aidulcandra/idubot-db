@@ -1376,5 +1376,15 @@
     "link": "/dont-wake-me-up.txt"
    }
   ]
+ },
+ {
+  "artist": "Pinkfong",
+  "link": "/pinkfong",
+  "songs": [
+   {
+    "title": "Baby Shark",
+    "link": "/baby-shark.txt"
+   }
+  ]
  }
 ]
