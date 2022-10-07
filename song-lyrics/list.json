@@ -1210,5 +1210,15 @@
     "link": "/mister-snow.txt"
    }
   ]
+ },
+ {
+  "artist": "Ava Max",
+  "link": "/ava-max",
+  "songs": [
+   {
+    "title": "Not Your Barbie Girl",
+    "link": "/not-your-barbie-girl.txt"
+   }
+  ]
  }
 ]
