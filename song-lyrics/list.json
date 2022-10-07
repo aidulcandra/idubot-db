@@ -1278,5 +1278,15 @@
     "link": "/open-your-eyes.txt"
    }
   ]
+ },
+ {
+  "artist": "Lady Gaga",
+  "link": "/lady-gaga",
+  "songs": [
+   {
+    "title": "Hold My Hand",
+    "link": "/hold-my-hand.txt"
+   }
+  ]
  }
 ]
