@@ -1240,5 +1240,15 @@
     "link": "/rude.txt"
    }
   ]
+ },
+ {
+  "artist": "Pink",
+  "link": "/pink",
+  "songs": [
+   {
+    "title": "Try",
+    "link": "/try.txt"
+   }
+  ]
  }
 ]
