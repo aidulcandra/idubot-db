@@ -1182,5 +1182,15 @@
     "link": "/sang-dewi.txt"
    }
   ]
+ },
+ {
+  "artist": "Base Jam",
+  "link": "/base-jam",
+  "songs": [
+   {
+    "title": "Ada Untukmu",
+    "link": "/ada-untukmu.txt"
+   }
+  ]
  }
 ]
