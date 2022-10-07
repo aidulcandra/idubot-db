@@ -1230,5 +1230,15 @@
     "link": "/pump-it-harder.txt"
    }
   ]
+ },
+ {
+  "artist": "MAGIC!",
+  "link": "/magic",
+  "songs": [
+   {
+    "title": "Rude",
+    "link": "/rude.txt"
+   }
+  ]
  }
 ]
