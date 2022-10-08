@@ -1632,5 +1632,15 @@
     "link": "/so-far-away.txt"
    }
   ]
+ },
+ {
+  "artist": "Epik High",
+  "link": "/epik-high",
+  "songs": [
+   {
+    "title": "Can You Hear My Heart",
+    "link": "/can-you-hear-my-heart.txt"
+   }
+  ]
  }
 ]
