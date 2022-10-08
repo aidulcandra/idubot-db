@@ -1622,5 +1622,15 @@
     "link": "/weak.txt"
    }
   ]
+ },
+ {
+  "artist": "Avenged Sevenfold",
+  "link": "/avenged-sevenfold",
+  "songs": [
+   {
+    "title": "So Far Away",
+    "link": "/so-far-away.txt"
+   }
+  ]
  }
 ]
