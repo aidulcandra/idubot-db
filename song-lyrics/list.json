@@ -1492,5 +1492,15 @@
     "link": "/shadow.txt"
    }
   ]
+ },
+ {
+  "artist": "GFRIEND",
+  "link": "/gfriend",
+  "songs": [
+   {
+    "title": "Rough",
+    "link": "/rough.txt"
+   }
+  ]
  }
 ]
