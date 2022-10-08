@@ -1576,5 +1576,15 @@
     "link": "/empires.txt"
    }
   ]
+ },
+ {
+  "artist": "Rogue",
+  "link": "/rogue",
+  "songs": [
+   {
+    "title": "Empires",
+    "link": "/empires.txt"
+   }
+  ]
  }
 ]
