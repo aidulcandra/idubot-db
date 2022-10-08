@@ -1396,5 +1396,15 @@
     "link": "/menjadi-dia-.txt"
    }
   ]
+ },
+ {
+  "artist": "Imagine Dragons",
+  "link": "/imagine-dragons",
+  "songs": [
+   {
+    "title": "Bad Liar",
+    "link": "/bad-liar.txt"
+   }
+  ]
  }
 ]
