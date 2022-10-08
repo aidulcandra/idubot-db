@@ -1532,5 +1532,15 @@
     "link": "/changes.txt"
    }
   ]
+ },
+ {
+  "artist": "7!!",
+  "link": "/7",
+  "songs": [
+   {
+    "title": "Orange",
+    "link": "/orange.txt"
+   }
+  ]
  }
 ]
