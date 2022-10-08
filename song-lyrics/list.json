@@ -1406,5 +1406,15 @@
     "link": "/bad-liar.txt"
    }
   ]
+ },
+ {
+  "artist": "Galileo Galilei",
+  "link": "/galileo-galilei",
+  "songs": [
+   {
+    "title": "Aoi Shiori (A Blue Bookmark)",
+    "link": "/aoi-shiori-a-blue-bookmark.txt"
+   }
+  ]
  }
 ]
