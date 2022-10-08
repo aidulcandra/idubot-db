@@ -1542,5 +1542,15 @@
     "link": "/orange.txt"
    }
   ]
+ },
+ {
+  "artist": "Yoasobi",
+  "link": "/yoasobi",
+  "songs": [
+   {
+    "title": "夜に駆ける",
+    "link": "/.txt"
+   }
+  ]
  }
 ]
