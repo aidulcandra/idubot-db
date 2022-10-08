@@ -1608,5 +1608,15 @@
     "link": "/back-to-december.txt"
    }
   ]
+ },
+ {
+  "artist": "SWV",
+  "link": "/swv",
+  "songs": [
+   {
+    "title": "Weak",
+    "link": "/weak.txt"
+   }
+  ]
  }
 ]
