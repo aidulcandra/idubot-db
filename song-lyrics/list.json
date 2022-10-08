@@ -1502,5 +1502,15 @@
     "link": "/rough.txt"
    }
   ]
+ },
+ {
+  "artist": "Bebi Romeo",
+  "link": "/bebi-romeo",
+  "songs": [
+   {
+    "title": "Bunga Terakhir",
+    "link": "/bunga-terakhir.txt"
+   }
+  ]
  }
 ]
