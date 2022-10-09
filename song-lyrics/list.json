@@ -1732,5 +1732,15 @@
     "link": "/bohemian-rhapsody.txt"
    }
   ]
+ },
+ {
+  "artist": "Charlie Puth",
+  "link": "/charlie-puth",
+  "songs": [
+   {
+    "title": "We Don't Talk Anymore",
+    "link": "/we-dont-talk-anymore.txt"
+   }
+  ]
  }
 ]
