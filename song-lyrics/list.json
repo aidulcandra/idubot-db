@@ -1766,5 +1766,15 @@
     "link": "/sisa-rasa.txt"
    }
   ]
+ },
+ {
+  "artist": "ST 12",
+  "link": "/st-12",
+  "songs": [
+   {
+    "title": "Cinta Tak Harus Memiliki",
+    "link": "/cinta-tak-harus-memiliki.txt"
+   }
+  ]
  }
 ]
