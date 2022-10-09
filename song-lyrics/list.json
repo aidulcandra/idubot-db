@@ -1786,5 +1786,15 @@
     "link": "/a-million-dreams.txt"
    }
   ]
+ },
+ {
+  "artist": "Peter Gabriel",
+  "link": "/peter-gabriel",
+  "songs": [
+   {
+    "title": "Heroes",
+    "link": "/heroes.txt"
+   }
+  ]
  }
 ]
