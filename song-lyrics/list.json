@@ -1776,5 +1776,15 @@
     "link": "/cinta-tak-harus-memiliki.txt"
    }
   ]
+ },
+ {
+  "artist": "Alex Porat",
+  "link": "/alex-porat",
+  "songs": [
+   {
+    "title": "A Million Dreams",
+    "link": "/a-million-dreams.txt"
+   }
+  ]
  }
 ]
