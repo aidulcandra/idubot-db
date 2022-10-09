@@ -1670,5 +1670,15 @@
     "link": "/one-voice.txt"
    }
   ]
+ },
+ {
+  "artist": "Rosalía",
+  "link": "/rosala",
+  "songs": [
+   {
+    "title": "Pienso En Tu Mirá (Cap.3: Celos)",
+    "link": "/pienso-en-tu-mir-cap3-celos.txt"
+   }
+  ]
  }
 ]
