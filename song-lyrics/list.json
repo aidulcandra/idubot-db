@@ -1660,5 +1660,15 @@
     "link": "/you-dont-know.txt"
    }
   ]
+ },
+ {
+  "artist": "Rokudenashi",
+  "link": "/rokudenashi",
+  "songs": [
+   {
+    "title": "One Voice",
+    "link": "/one-voice.txt"
+   }
+  ]
  }
 ]
