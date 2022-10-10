@@ -1822,5 +1822,15 @@
     "link": "/dinda.txt"
    }
   ]
+ },
+ {
+  "artist": "Cascada",
+  "link": "/cascada",
+  "songs": [
+   {
+    "title": "Evacuate the Dancefloor",
+    "link": "/evacuate-the-dancefloor.txt"
+   }
+  ]
  }
 ]
