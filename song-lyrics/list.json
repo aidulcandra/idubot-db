@@ -1842,5 +1842,25 @@
     "link": "/queen-of-disaster.txt"
    }
   ]
+ },
+ {
+  "artist": "Akon, Nick Cannon",
+  "link": "/akon-nick-cannon",
+  "songs": [
+   {
+    "title": "Famous",
+    "link": "/famous.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Akon",
+  "link": "/akon",
+  "songs": [
+   {
+    "title": "Don't Matter",
+    "link": "/dont-matter.txt"
+   }
+  ]
  }
 ]
