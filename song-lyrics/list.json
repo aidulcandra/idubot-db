@@ -1862,5 +1862,15 @@
     "link": "/dont-matter.txt"
    }
   ]
+ },
+ {
+  "artist": "blackbear",
+  "link": "/blackbear",
+  "songs": [
+   {
+    "title": "@ my worst",
+    "link": "/-my-worst.txt"
+   }
+  ]
  }
 ]
