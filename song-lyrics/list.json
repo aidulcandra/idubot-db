@@ -1890,5 +1890,15 @@
     "link": "/havana.txt"
    }
   ]
+ },
+ {
+  "artist": "Quinn Salman",
+  "link": "/quinn-salman",
+  "songs": [
+   {
+    "title": "Tiba-Tiba",
+    "link": "/tiba-tiba.txt"
+   }
+  ]
  }
 ]
