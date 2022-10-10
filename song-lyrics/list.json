@@ -1808,5 +1808,15 @@
     "link": "/heroes.txt"
    }
   ]
+ },
+ {
+  "artist": "Kugiran Masdo",
+  "link": "/kugiran-masdo",
+  "songs": [
+   {
+    "title": "Dinda",
+    "link": "/dinda.txt"
+   }
+  ]
  }
 ]
