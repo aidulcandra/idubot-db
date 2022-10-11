@@ -3866,5 +3866,15 @@
     "link": "/daisy.txt"
    }
   ]
+ },
+ {
+  "artist": "Sofia Reyes",
+  "link": "/sofia-reyes",
+  "songs": [
+   {
+    "title": "1, 2, 3",
+    "link": "/1-2-3.txt"
+   }
+  ]
  }
 ]
