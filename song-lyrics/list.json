@@ -3852,5 +3852,15 @@
     "link": "/criminal.txt"
    }
   ]
+ },
+ {
+  "artist": "Ashnikko",
+  "link": "/ashnikko",
+  "songs": [
+   {
+    "title": "Daisy",
+    "link": "/daisy.txt"
+   }
+  ]
  }
 ]
