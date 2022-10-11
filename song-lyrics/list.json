@@ -1920,5 +1920,1937 @@
     "link": "/anak-yang-malang.txt"
    }
   ]
+ },
+ {
+  "artist": "Coldplay",
+  "link": "/coldplay",
+  "songs": [
+   {
+    "title": "Viva La Vida",
+    "link": "/viva-la-vida.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Linkin Park",
+  "link": "/linkin-park",
+  "songs": [
+   {
+    "title": "Numb",
+    "link": "/numb.txt"
+   },
+   {
+    "title": "Faint",
+    "link": "/faint.txt"
+   },
+   {
+    "title": "Forgotten",
+    "link": "/forgotten.txt"
+   },
+   {
+    "title": "Pushing Me Away",
+    "link": "/pushing-me-away.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Green Day",
+  "link": "/green-day",
+  "songs": [
+   {
+    "title": "Boulevard of Broken Dreams",
+    "link": "/boulevard-of-broken-dreams.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Keane",
+  "link": "/keane",
+  "songs": [
+   {
+    "title": "Somewhere Only We Know",
+    "link": "/somewhere-only-we-know.txt"
+   }
+  ]
+ },
+ {
+  "artist": "NCT Dream",
+  "link": "/nct-dream",
+  "songs": [
+   {
+    "title": "Beatbox",
+    "link": "/beatbox.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Soegi Bornean",
+  "link": "/soegi-bornean",
+  "songs": [
+   {
+    "title": "Asmalibrasi",
+    "link": "/asmalibrasi.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Maroon 5",
+  "link": "/maroon-5",
+  "songs": [
+   {
+    "title": "Memories",
+    "link": "/memories.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Rihanna",
+  "link": "/rihanna",
+  "songs": [
+   {
+    "title": "Diamonds",
+    "link": "/diamonds.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Linked Horizon",
+  "link": "/linked-horizon",
+  "songs": [
+   {
+    "title": "Shinzo wo Sasageyo! (TV Size)",
+    "link": "/shinzo-wo-sasageyo-tv-size.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Maher Zain",
+  "link": "/maher-zain",
+  "songs": [
+   {
+    "title": "Close to You",
+    "link": "/close-to-you.txt"
+   },
+   {
+    "title": "Sepanjang Hidup (For the Rest of My Life) - Malay Version",
+    "link": "/sepanjang-hidup-for-the-rest-of-my-life---malay-version.txt"
+   },
+   {
+    "title": "Allahi Allah Kiya Karo",
+    "link": "/allahi-allah-kiya-karo.txt"
+   },
+   {
+    "title": "Hold My Hand",
+    "link": "/hold-my-hand.txt"
+   },
+   {
+    "title": "For the Rest of My Life",
+    "link": "/for-the-rest-of-my-life.txt"
+   },
+   {
+    "title": "Baraka Allahu Lakuma",
+    "link": "/baraka-allahu-lakuma.txt"
+   },
+   {
+    "title": "Open Your Eyes",
+    "link": "/open-your-eyes.txt"
+   },
+   {
+    "title": "The Chosen One",
+    "link": "/the-chosen-one.txt"
+   }
+  ]
+ },
+ {
+  "artist": "City Sessions",
+  "link": "/city-sessions",
+  "songs": [
+   {
+    "title": "The Nights",
+    "link": "/the-nights.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Casey Edwards",
+  "link": "/casey-edwards",
+  "songs": [
+   {
+    "title": "Bury the Light",
+    "link": "/bury-the-light.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Little Mix",
+  "link": "/little-mix",
+  "songs": [
+   {
+    "title": "Secret Love Song",
+    "link": "/secret-love-song.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Sia",
+  "link": "/sia",
+  "songs": [
+   {
+    "title": "Chandelier",
+    "link": "/chandelier.txt"
+   },
+   {
+    "title": "The Greatest",
+    "link": "/the-greatest.txt"
+   },
+   {
+    "title": "Snowman",
+    "link": "/snowman.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Alessia Cara",
+  "link": "/alessia-cara",
+  "songs": [
+   {
+    "title": "October",
+    "link": "/october.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Calum Scott",
+  "link": "/calum-scott",
+  "songs": [
+   {
+    "title": "Heaven",
+    "link": "/heaven.txt"
+   },
+   {
+    "title": "You Are The Reason",
+    "link": "/you-are-the-reason.txt"
+   }
+  ]
+ },
+ {
+  "artist": "DPR LIVE",
+  "link": "/dpr-live",
+  "songs": [
+   {
+    "title": "Jasmine",
+    "link": "/jasmine.txt"
+   },
+   {
+    "title": "Martini Blue",
+    "link": "/martini-blue.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Keshi",
+  "link": "/keshi",
+  "songs": [
+   {
+    "title": "less of you",
+    "link": "/less-of-you.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Madison Beer",
+  "link": "/madison-beer",
+  "songs": [
+   {
+    "title": "Reckless",
+    "link": "/reckless.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Pink Sweats",
+  "link": "/pink-sweats",
+  "songs": [
+   {
+    "title": "Honesty",
+    "link": "/honesty.txt"
+   },
+   {
+    "title": "At My Worst",
+    "link": "/at-my-worst.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Daya",
+  "link": "/daya",
+  "songs": [
+   {
+    "title": "Sit Still, Look Pretty",
+    "link": "/sit-still-look-pretty.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Beach Bunny",
+  "link": "/beach-bunny",
+  "songs": [
+   {
+    "title": "Prom Queen",
+    "link": "/prom-queen.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Sorana",
+  "link": "/sorana",
+  "songs": [
+   {
+    "title": "Lost Control",
+    "link": "/lost-control.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Larissa Lambert",
+  "link": "/larissa-lambert",
+  "songs": [
+   {
+    "title": "Weak",
+    "link": "/weak.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Benzz",
+  "link": "/benzz",
+  "songs": [
+   {
+    "title": "Je M'appelle",
+    "link": "/je-mappelle.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Central Cee",
+  "link": "/central-cee",
+  "songs": [
+   {
+    "title": "Doja",
+    "link": "/doja.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Chris Brown",
+  "link": "/chris-brown",
+  "songs": [
+   {
+    "title": "Under The Influence",
+    "link": "/under-the-influence.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Rizky Febian",
+  "link": "/rizky-febian",
+  "songs": [
+   {
+    "title": "Hingga Tua Bersama",
+    "link": "/hingga-tua-bersama.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Lyodra",
+  "link": "/lyodra",
+  "songs": [
+   {
+    "title": "Sang Dewi",
+    "link": "/sang-dewi.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Mahalini Raharja",
+  "link": "/mahalini-raharja",
+  "songs": [
+   {
+    "title": "Kisah Sempurna",
+    "link": "/kisah-sempurna.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Last Child",
+  "link": "/last-child",
+  "songs": [
+   {
+    "title": "Duka",
+    "link": "/duka.txt"
+   },
+   {
+    "title": "Sekuat Hatimu",
+    "link": "/sekuat-hatimu.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Govinda",
+  "link": "/govinda",
+  "songs": [
+   {
+    "title": "Hal Hebat",
+    "link": "/hal-hebat.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Keisya Levronka",
+  "link": "/keisya-levronka",
+  "songs": [
+   {
+    "title": "Tak Ingin Usai",
+    "link": "/tak-ingin-usai.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Feby Putri",
+  "link": "/feby-putri",
+  "songs": [
+   {
+    "title": "Usik",
+    "link": "/usik.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Ghostface Killah",
+  "link": "/ghostface-killah",
+  "songs": [
+   {
+    "title": "The Champ",
+    "link": "/the-champ.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Justin Bieber",
+  "link": "/justin-bieber",
+  "songs": [
+   {
+    "title": "Ghost",
+    "link": "/ghost.txt"
+   },
+   {
+    "title": "Baby",
+    "link": "/baby.txt"
+   },
+   {
+    "title": "10,000 Hours",
+    "link": "/10000-hours.txt"
+   },
+   {
+    "title": "Favorite Girl",
+    "link": "/favorite-girl.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Radwimps",
+  "link": "/radwimps",
+  "songs": [
+   {
+    "title": "Zenzenzense",
+    "link": "/zenzenzense.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Alicia Keys",
+  "link": "/alicia-keys",
+  "songs": [
+   {
+    "title": "My Boo",
+    "link": "/my-boo.txt"
+   }
+  ]
+ },
+ {
+  "artist": "The Overtunes",
+  "link": "/the-overtunes",
+  "songs": [
+   {
+    "title": "Sayap Pelindungmu",
+    "link": "/sayap-pelindungmu.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Drive",
+  "link": "/drive",
+  "songs": [
+   {
+    "title": "Bersama Bintang",
+    "link": "/bersama-bintang.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Rosa Linn",
+  "link": "/rosa-linn",
+  "songs": [
+   {
+    "title": "SNAP",
+    "link": "/snap.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Pink Floyd",
+  "link": "/pink-floyd",
+  "songs": [
+   {
+    "title": "Wish You Were Here",
+    "link": "/wish-you-were-here.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Avril Lavigne",
+  "link": "/avril-lavigne",
+  "songs": [
+   {
+    "title": "Wish You Were Here",
+    "link": "/wish-you-were-here.txt"
+   }
+  ]
+ },
+ {
+  "artist": "BTS",
+  "link": "/bts",
+  "songs": [
+   {
+    "title": "00:00 (Zero O’Clock)",
+    "link": "/0000-zero-oclock.txt"
+   },
+   {
+    "title": "ON",
+    "link": "/on.txt"
+   },
+   {
+    "title": "My Universe",
+    "link": "/my-universe.txt"
+   },
+   {
+    "title": "Go Go",
+    "link": "/go-go.txt"
+   },
+   {
+    "title": "Black Swan",
+    "link": "/black-swan.txt"
+   },
+   {
+    "title": "Airplane, pt.2",
+    "link": "/airplane-pt2.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Metallica",
+  "link": "/metallica",
+  "songs": [
+   {
+    "title": "Enter Sandman",
+    "link": "/enter-sandman.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Khaled",
+  "link": "/khaled",
+  "songs": [
+   {
+    "title": "C'est La Vie",
+    "link": "/cest-la-vie.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Raisa",
+  "link": "/raisa",
+  "songs": [
+   {
+    "title": "Percayalah",
+    "link": "/percayalah.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Isyana Sarasvati",
+  "link": "/isyana-sarasvati",
+  "songs": [
+   {
+    "title": "Tetap Dalam Jiwa",
+    "link": "/tetap-dalam-jiwa.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Natalie Taylor",
+  "link": "/natalie-taylor",
+  "songs": [
+   {
+    "title": "Surrender",
+    "link": "/surrender.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Avicii",
+  "link": "/avicii",
+  "songs": [
+   {
+    "title": "The Nights",
+    "link": "/the-nights.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Noah",
+  "link": "/noah",
+  "songs": [
+   {
+    "title": "Mimpi Yang Sempurna",
+    "link": "/mimpi-yang-sempurna.txt"
+   },
+   {
+    "title": "Menghapus Jejakmu",
+    "link": "/menghapus-jejakmu.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Hindia",
+  "link": "/hindia",
+  "songs": [
+   {
+    "title": "Dehidrasi",
+    "link": "/dehidrasi.txt"
+   },
+   {
+    "title": "Evaluasi",
+    "link": "/evaluasi.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Just Stef",
+  "link": "/just-stef",
+  "songs": [
+   {
+    "title": "Miss U Miss Me",
+    "link": "/miss-u-miss-me.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Adele",
+  "link": "/adele",
+  "songs": [
+   {
+    "title": "Someone Like You",
+    "link": "/someone-like-you.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Boomerang",
+  "link": "/boomerang",
+  "songs": [
+   {
+    "title": "Pelangi",
+    "link": "/pelangi.txt"
+   }
+  ]
+ },
+ {
+  "artist": "One Direction",
+  "link": "/one-direction",
+  "songs": [
+   {
+    "title": "Night Changes",
+    "link": "/night-changes.txt"
+   },
+   {
+    "title": "Right Now",
+    "link": "/right-now.txt"
+   },
+   {
+    "title": "Strong",
+    "link": "/strong.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Chrisye",
+  "link": "/chrisye",
+  "songs": [
+   {
+    "title": "Kisah Kasih di Sekolah",
+    "link": "/kisah-kasih-di-sekolah.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Emilia",
+  "link": "/emilia",
+  "songs": [
+   {
+    "title": "Big Big World",
+    "link": "/big-big-world.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Acha Septriasa",
+  "link": "/acha-septriasa",
+  "songs": [
+   {
+    "title": "Sampai Menutup Mata",
+    "link": "/sampai-menutup-mata.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Ekhsan",
+  "link": "/ekhsan",
+  "songs": [
+   {
+    "title": "Pergi Tak Meninggalkan",
+    "link": "/pergi-tak-meninggalkan.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Katy Perry",
+  "link": "/katy-perry",
+  "songs": [
+   {
+    "title": "The One That Got Away",
+    "link": "/the-one-that-got-away.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Eminem",
+  "link": "/eminem",
+  "songs": [
+   {
+    "title": "Not Afraid",
+    "link": "/not-afraid.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Dido",
+  "link": "/dido",
+  "songs": [
+   {
+    "title": "Thank You",
+    "link": "/thank-you.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Wali Band",
+  "link": "/wali-band",
+  "songs": [
+   {
+    "title": "Si Udin Bertanya",
+    "link": "/si-udin-bertanya.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Westlife",
+  "link": "/westlife",
+  "songs": [
+   {
+    "title": "Soledad",
+    "link": "/soledad.txt"
+   },
+   {
+    "title": "Seasons in the Sun",
+    "link": "/seasons-in-the-sun.txt"
+   },
+   {
+    "title": "I Lay My Love on You",
+    "link": "/i-lay-my-love-on-you.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Artist",
+  "link": "/artist",
+  "songs": [
+   {
+    "title": "Coptic Oud",
+    "link": "/coptic-oud.txt"
+   },
+   {
+    "title": "Livetune",
+    "link": "/livetune.txt"
+   },
+   {
+    "title": "GFRIEND",
+    "link": "/gfriend.txt"
+   },
+   {
+    "title": "Dolly Parton",
+    "link": "/dolly-parton.txt"
+   },
+   {
+    "title": "Titi DJ",
+    "link": "/titi-dj.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Bruno Mars",
+  "link": "/bruno-mars",
+  "songs": [
+   {
+    "title": "Versace on the Floor",
+    "link": "/versace-on-the-floor.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Rex Orange County",
+  "link": "/rex-orange-county",
+  "songs": [
+   {
+    "title": "AMAZING",
+    "link": "/amazing.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Ailee",
+  "link": "/ailee",
+  "songs": [
+   {
+    "title": "I Will Go to You Like The First Snow (OST. Goblin)",
+    "link": "/i-will-go-to-you-like-the-first-snow-ost-goblin.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Andra and The BackBone",
+  "link": "/andra-and-the-backbone",
+  "songs": [
+   {
+    "title": "Sempurna",
+    "link": "/sempurna.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Sam Smith",
+  "link": "/sam-smith",
+  "songs": [
+   {
+    "title": "I’m Not the Only One",
+    "link": "/im-not-the-only-one.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Dream Theater",
+  "link": "/dream-theater",
+  "songs": [
+   {
+    "title": "In the Name of God",
+    "link": "/in-the-name-of-god.txt"
+   },
+   {
+    "title": "Endless Sacrifice",
+    "link": "/endless-sacrifice.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Y Destiny Actors",
+  "link": "/y-destiny-actors",
+  "songs": [
+   {
+    "title": "Why Destiny",
+    "link": "/why-destiny.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Desy Ratnasari",
+  "link": "/desy-ratnasari",
+  "songs": [
+   {
+    "title": "Lembaran baru",
+    "link": "/lembaran-baru.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Hasdie Hasnan",
+  "link": "/hasdie-hasnan",
+  "songs": [
+   {
+    "title": "Sampai Ke Syurga",
+    "link": "/sampai-ke-syurga.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Lewis Capaldi",
+  "link": "/lewis-capaldi",
+  "songs": [
+   {
+    "title": "Before You Go",
+    "link": "/before-you-go.txt"
+   },
+   {
+    "title": "Someone You Loved",
+    "link": "/someone-you-loved.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Passenger",
+  "link": "/passenger",
+  "songs": [
+   {
+    "title": "Let Her Go",
+    "link": "/let-her-go.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Em Beihold",
+  "link": "/em-beihold",
+  "songs": [
+   {
+    "title": "Until I Found You",
+    "link": "/until-i-found-you.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Marshmello",
+  "link": "/marshmello",
+  "songs": [
+   {
+    "title": "Silence feat. Khalid",
+    "link": "/silence-feat-khalid.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Kuburan Band",
+  "link": "/kuburan-band",
+  "songs": [
+   {
+    "title": "Lupa Lupa Ingat",
+    "link": "/lupa-lupa-ingat.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Super Junior",
+  "link": "/super-junior",
+  "songs": [
+   {
+    "title": "MAMACITA",
+    "link": "/mamacita.txt"
+   },
+   {
+    "title": "One More Time (Otra Vez)",
+    "link": "/one-more-time-otra-vez.txt"
+   },
+   {
+    "title": "Animals",
+    "link": "/animals.txt"
+   },
+   {
+    "title": "Mango",
+    "link": "/mango.txt"
+   }
+  ]
+ },
+ {
+  "artist": "ONE OK ROCK",
+  "link": "/one-ok-rock",
+  "songs": [
+   {
+    "title": "Mad World",
+    "link": "/mad-world.txt"
+   },
+   {
+    "title": "So Far Gone",
+    "link": "/so-far-gone.txt"
+   }
+  ]
+ },
+ {
+  "artist": "TOMORROW X TOGETHER",
+  "link": "/tomorrow-x-together",
+  "songs": [
+   {
+    "title": "Can't You See Me?",
+    "link": "/cant-you-see-me.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Gym Class Heroes",
+  "link": "/gym-class-heroes",
+  "songs": [
+   {
+    "title": "Stereo Hearts",
+    "link": "/stereo-hearts.txt"
+   }
+  ]
+ },
+ {
+  "artist": "The Chainsmokers",
+  "link": "/the-chainsmokers",
+  "songs": [
+   {
+    "title": "Closer",
+    "link": "/closer.txt"
+   }
+  ]
+ },
+ {
+  "artist": "CKay",
+  "link": "/ckay",
+  "songs": [
+   {
+    "title": "love nwantiti (ah ah ah)",
+    "link": "/love-nwantiti-ah-ah-ah.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Count Basie",
+  "link": "/count-basie",
+  "songs": [
+   {
+    "title": "Fly Me to the Moon",
+    "link": "/fly-me-to-the-moon.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Melanie Martinez",
+  "link": "/melanie-martinez",
+  "songs": [
+   {
+    "title": "Play Date",
+    "link": "/play-date.txt"
+   }
+  ]
+ },
+ {
+  "artist": "INNA",
+  "link": "/inna",
+  "songs": [
+   {
+    "title": "Cola Song",
+    "link": "/cola-song.txt"
+   }
+  ]
+ },
+ {
+  "artist": "JT Machinima",
+  "link": "/jt-machinima",
+  "songs": [
+   {
+    "title": "To the Bone",
+    "link": "/to-the-bone.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Pamungkas",
+  "link": "/pamungkas",
+  "songs": [
+   {
+    "title": "To the Bone",
+    "link": "/to-the-bone.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Lana Del Rey",
+  "link": "/lana-del-rey",
+  "songs": [
+   {
+    "title": "Doin' Time",
+    "link": "/doin-time.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Bebe Rexha",
+  "link": "/bebe-rexha",
+  "songs": [
+   {
+    "title": "I'm a Mess",
+    "link": "/im-a-mess.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Ariana Grande",
+  "link": "/ariana-grande",
+  "songs": [
+   {
+    "title": "Side to Side",
+    "link": "/side-to-side.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Johnny Orlando",
+  "link": "/johnny-orlando",
+  "songs": [
+   {
+    "title": "someone will love you better",
+    "link": "/someone-will-love-you-better.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Ed Sheeran",
+  "link": "/ed-sheeran",
+  "songs": [
+   {
+    "title": "Perfect",
+    "link": "/perfect.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Simple Plan",
+  "link": "/simple-plan",
+  "songs": [
+   {
+    "title": "Freaking Me Out",
+    "link": "/freaking-me-out.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Michael Jackson",
+  "link": "/michael-jackson",
+  "songs": [
+   {
+    "title": "Billie Jean",
+    "link": "/billie-jean.txt"
+   },
+   {
+    "title": "Wanna Be Startin’ Somethin’",
+    "link": "/wanna-be-startin-somethin.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Meryl Streep",
+  "link": "/meryl-streep",
+  "songs": [
+   {
+    "title": "Slipping Through My Fingers",
+    "link": "/slipping-through-my-fingers.txt"
+   }
+  ]
+ },
+ {
+  "artist": "BLACKPINK",
+  "link": "/blackpink",
+  "songs": [
+   {
+    "title": "Shut Down",
+    "link": "/shut-down.txt"
+   },
+   {
+    "title": "Pink Venom",
+    "link": "/pink-venom.txt"
+   },
+   {
+    "title": "The Happiest Girl",
+    "link": "/the-happiest-girl.txt"
+   },
+   {
+    "title": "How You Like That",
+    "link": "/how-you-like-that.txt"
+   }
+  ]
+ },
+ {
+  "artist": "We The Kings",
+  "link": "/we-the-kings",
+  "songs": [
+   {
+    "title": "Sad Song",
+    "link": "/sad-song.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Shawn Mendes",
+  "link": "/shawn-mendes",
+  "songs": [
+   {
+    "title": "It’ll Be Okay",
+    "link": "/itll-be-okay.txt"
+   },
+   {
+    "title": "Imagination",
+    "link": "/imagination.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Hamisu Breaker",
+  "link": "/hamisu-breaker",
+  "songs": [
+   {
+    "title": "Jarumar Mata",
+    "link": "/jarumar-mata.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Eric Clapton",
+  "link": "/eric-clapton",
+  "songs": [
+   {
+    "title": "Old Love",
+    "link": "/old-love.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Giorgio Moroder",
+  "link": "/giorgio-moroder",
+  "songs": [
+   {
+    "title": "Déjà Vu",
+    "link": "/dj-vu.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Fujii Kaze",
+  "link": "/fujii-kaze",
+  "songs": [
+   {
+    "title": "Shinunoga E-Wa",
+    "link": "/shinunoga-e-wa.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Popcaan, PremÃª, Wiz Khalifa",
+  "link": "/popcaan-prem-wiz-khalifa",
+  "songs": [
+   {
+    "title": "Wining Queen",
+    "link": "/wining-queen.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Clean Bandit",
+  "link": "/clean-bandit",
+  "songs": [
+   {
+    "title": "Rockabye",
+    "link": "/rockabye.txt"
+   },
+   {
+    "title": "Baby",
+    "link": "/baby.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Fiersa Besari",
+  "link": "/fiersa-besari",
+  "songs": [
+   {
+    "title": "Pengecut",
+    "link": "/pengecut.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Titi DJ",
+  "link": "/titi-dj",
+  "songs": [
+   {
+    "title": "Sang Dewi",
+    "link": "/sang-dewi.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Base Jam",
+  "link": "/base-jam",
+  "songs": [
+   {
+    "title": "Ada Untukmu",
+    "link": "/ada-untukmu.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Rodgers and Hammerstein",
+  "link": "/rodgers-and-hammerstein",
+  "songs": [
+   {
+    "title": "Mister Snow",
+    "link": "/mister-snow.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Ava Max",
+  "link": "/ava-max",
+  "songs": [
+   {
+    "title": "Not Your Barbie Girl",
+    "link": "/not-your-barbie-girl.txt"
+   },
+   {
+    "title": "So Am I",
+    "link": "/so-am-i.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Black Eyed Peas",
+  "link": "/black-eyed-peas",
+  "songs": [
+   {
+    "title": "Pump It Harder",
+    "link": "/pump-it-harder.txt"
+   }
+  ]
+ },
+ {
+  "artist": "MAGIC!",
+  "link": "/magic",
+  "songs": [
+   {
+    "title": "Rude",
+    "link": "/rude.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Pink",
+  "link": "/pink",
+  "songs": [
+   {
+    "title": "Try",
+    "link": "/try.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Rev. Timothy Wright",
+  "link": "/rev-timothy-wright",
+  "songs": [
+   {
+    "title": "For The Rest Of My Life (I'll Serve Him)",
+    "link": "/for-the-rest-of-my-life-ill-serve-him.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Snow Patrol",
+  "link": "/snow-patrol",
+  "songs": [
+   {
+    "title": "Open Your Eyes",
+    "link": "/open-your-eyes.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Lady Gaga",
+  "link": "/lady-gaga",
+  "songs": [
+   {
+    "title": "Hold My Hand",
+    "link": "/hold-my-hand.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Kara",
+  "link": "/kara",
+  "songs": [
+   {
+    "title": "Justin Bieber -Despacito ft. Luis Fonsi & Daddy Yankee",
+    "link": "/justin-bieber--despacito-ft-luis-fonsi--daddy-yankee.txt"
+   }
+  ]
+ },
+ {
+  "artist": "SLANDER",
+  "link": "/slander",
+  "songs": [
+   {
+    "title": "Love Is Gone",
+    "link": "/love-is-gone.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Ruth B",
+  "link": "/ruth-b",
+  "songs": [
+   {
+    "title": "Superficial Love",
+    "link": "/superficial-love.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Conan Gray",
+  "link": "/conan-gray",
+  "songs": [
+   {
+    "title": "Heather",
+    "link": "/heather.txt"
+   }
+  ]
+ },
+ {
+  "artist": "EXO-CBX",
+  "link": "/exo-cbx",
+  "songs": [
+   {
+    "title": "Paper Cuts (EXO-CBX “MAGICAL CIRCUS” 2019 -Special Edition-)",
+    "link": "/paper-cuts-exo-cbx-magical-circus-2019--special-edition-.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Why Don't We",
+  "link": "/why-dont-we",
+  "songs": [
+   {
+    "title": "Don’t Wake Me Up",
+    "link": "/dont-wake-me-up.txt"
+   },
+   {
+    "title": "8 Letters",
+    "link": "/8-letters.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Pinkfong",
+  "link": "/pinkfong",
+  "songs": [
+   {
+    "title": "Baby Shark",
+    "link": "/baby-shark.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Tiara Andini ",
+  "link": "/tiara-andini-",
+  "songs": [
+   {
+    "title": "Menjadi Dia ",
+    "link": "/menjadi-dia-.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Imagine Dragons",
+  "link": "/imagine-dragons",
+  "songs": [
+   {
+    "title": "Bad Liar",
+    "link": "/bad-liar.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Galileo Galilei",
+  "link": "/galileo-galilei",
+  "songs": [
+   {
+    "title": "Aoi Shiori (A Blue Bookmark)",
+    "link": "/aoi-shiori-a-blue-bookmark.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Yorushika",
+  "link": "/yorushika",
+  "songs": [
+   {
+    "title": "Itte. - Say It.",
+    "link": "/itte---say-it.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Asian Kung-Fu Generation",
+  "link": "/asian-kung-fu-generation",
+  "songs": [
+   {
+    "title": "Haruka Kanata - Far-off Distance",
+    "link": "/haruka-kanata---far-off-distance.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Little by Little",
+  "link": "/little-by-little",
+  "songs": [
+   {
+    "title": "Kanashimi wo Yasashisani",
+    "link": "/kanashimi-wo-yasashisani.txt"
+   }
+  ]
+ },
+ {
+  "artist": "TREASURE",
+  "link": "/treasure",
+  "songs": [
+   {
+    "title": "THANK YOU",
+    "link": "/thank-you.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Seventeen",
+  "link": "/seventeen",
+  "songs": [
+   {
+    "title": "To you",
+    "link": "/to-you.txt"
+   },
+   {
+    "title": "Shadow",
+    "link": "/shadow.txt"
+   }
+  ]
+ },
+ {
+  "artist": "William Black",
+  "link": "/william-black",
+  "songs": [
+   {
+    "title": "Shadow",
+    "link": "/shadow.txt"
+   }
+  ]
+ },
+ {
+  "artist": "GFRIEND",
+  "link": "/gfriend",
+  "songs": [
+   {
+    "title": "Rough",
+    "link": "/rough.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Bebi Romeo",
+  "link": "/bebi-romeo",
+  "songs": [
+   {
+    "title": "Bunga Terakhir",
+    "link": "/bunga-terakhir.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Afgansyah Reza",
+  "link": "/afgansyah-reza",
+  "songs": [
+   {
+    "title": "Wajahmu Mengalihkan Duniaku",
+    "link": "/wajahmu-mengalihkan-duniaku.txt"
+   }
+  ]
+ },
+ {
+  "artist": "XXXTENTACION",
+  "link": "/xxxtentacion",
+  "songs": [
+   {
+    "title": "Changes",
+    "link": "/changes.txt"
+   }
+  ]
+ },
+ {
+  "artist": "7!!",
+  "link": "/7",
+  "songs": [
+   {
+    "title": "Orange",
+    "link": "/orange.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Yoasobi",
+  "link": "/yoasobi",
+  "songs": [
+   {
+    "title": "夜に駆ける",
+    "link": "/.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Porter Robinson",
+  "link": "/porter-robinson",
+  "songs": [
+   {
+    "title": "Look at the Sky",
+    "link": "/look-at-the-sky.txt"
+   },
+   {
+    "title": "Everything Goes On",
+    "link": "/everything-goes-on.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Hillsong UNITED",
+  "link": "/hillsong-united",
+  "songs": [
+   {
+    "title": "Empires",
+    "link": "/empires.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Rogue",
+  "link": "/rogue",
+  "songs": [
+   {
+    "title": "Empires",
+    "link": "/empires.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Taylor Swift",
+  "link": "/taylor-swift",
+  "songs": [
+   {
+    "title": "Back to December",
+    "link": "/back-to-december.txt"
+   }
+  ]
+ },
+ {
+  "artist": "SWV",
+  "link": "/swv",
+  "songs": [
+   {
+    "title": "Weak",
+    "link": "/weak.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Avenged Sevenfold",
+  "link": "/avenged-sevenfold",
+  "songs": [
+   {
+    "title": "So Far Away",
+    "link": "/so-far-away.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Epik High",
+  "link": "/epik-high",
+  "songs": [
+   {
+    "title": "Can You Hear My Heart",
+    "link": "/can-you-hear-my-heart.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Katelyn Tarver",
+  "link": "/katelyn-tarver",
+  "songs": [
+   {
+    "title": "You Don't Know",
+    "link": "/you-dont-know.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Rokudenashi",
+  "link": "/rokudenashi",
+  "songs": [
+   {
+    "title": "One Voice",
+    "link": "/one-voice.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Rosalía",
+  "link": "/rosala",
+  "songs": [
+   {
+    "title": "Pienso En Tu Mirá (Cap.3: Celos)",
+    "link": "/pienso-en-tu-mir-cap3-celos.txt"
+   },
+   {
+    "title": "BIZCOCHITO",
+    "link": "/bizcochito.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Jorja Smith",
+  "link": "/jorja-smith",
+  "songs": [
+   {
+    "title": "Don't Watch Me Cry",
+    "link": "/dont-watch-me-cry.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Lesti Kejora",
+  "link": "/lesti-kejora",
+  "songs": [
+   {
+    "title": "Egois",
+    "link": "/egois.txt"
+   },
+   {
+    "title": "Sekali Seumur Hidup",
+    "link": "/sekali-seumur-hidup.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Lesti, Danang",
+  "link": "/lesti-danang",
+  "songs": [
+   {
+    "title": "Jodohku",
+    "link": "/jodohku.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Queen",
+  "link": "/queen",
+  "songs": [
+   {
+    "title": "Bohemian Rhapsody",
+    "link": "/bohemian-rhapsody.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Charlie Puth",
+  "link": "/charlie-puth",
+  "songs": [
+   {
+    "title": "We Don't Talk Anymore",
+    "link": "/we-dont-talk-anymore.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Witt Lowry",
+  "link": "/witt-lowry",
+  "songs": [
+   {
+    "title": "Into Your Arms",
+    "link": "/into-your-arms.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Mahalini",
+  "link": "/mahalini",
+  "songs": [
+   {
+    "title": "Sisa Rasa",
+    "link": "/sisa-rasa.txt"
+   }
+  ]
+ },
+ {
+  "artist": "ST 12",
+  "link": "/st-12",
+  "songs": [
+   {
+    "title": "Cinta Tak Harus Memiliki",
+    "link": "/cinta-tak-harus-memiliki.txt"
+   },
+   {
+    "title": "Putri Iklan",
+    "link": "/putri-iklan.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Alex Porat",
+  "link": "/alex-porat",
+  "songs": [
+   {
+    "title": "A Million Dreams",
+    "link": "/a-million-dreams.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Peter Gabriel",
+  "link": "/peter-gabriel",
+  "songs": [
+   {
+    "title": "Heroes",
+    "link": "/heroes.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Kugiran Masdo",
+  "link": "/kugiran-masdo",
+  "songs": [
+   {
+    "title": "Dinda",
+    "link": "/dinda.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Cascada",
+  "link": "/cascada",
+  "songs": [
+   {
+    "title": "Evacuate the Dancefloor",
+    "link": "/evacuate-the-dancefloor.txt"
+   }
+  ]
+ },
+ {
+  "artist": "SirLofi",
+  "link": "/sirlofi",
+  "songs": [
+   {
+    "title": "Queen of Disaster",
+    "link": "/queen-of-disaster.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Akon, Nick Cannon",
+  "link": "/akon-nick-cannon",
+  "songs": [
+   {
+    "title": "Famous",
+    "link": "/famous.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Akon",
+  "link": "/akon",
+  "songs": [
+   {
+    "title": "Don't Matter",
+    "link": "/dont-matter.txt"
+   }
+  ]
+ },
+ {
+  "artist": "blackbear",
+  "link": "/blackbear",
+  "songs": [
+   {
+    "title": "@ my worst",
+    "link": "/-my-worst.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Camila Cabello",
+  "link": "/camila-cabello",
+  "songs": [
+   {
+    "title": "Havana",
+    "link": "/havana.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Quinn Salman",
+  "link": "/quinn-salman",
+  "songs": [
+   {
+    "title": "Tiba-Tiba",
+    "link": "/tiba-tiba.txt"
+   }
+  ]
+ },
+ {
+  "artist": "John Legend",
+  "link": "/john-legend",
+  "songs": [
+   {
+    "title": "Minefields",
+    "link": "/minefields.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Rhoma Irama",
+  "link": "/rhoma-irama",
+  "songs": [
+   {
+    "title": "Anak yang Malang",
+    "link": "/anak-yang-malang.txt"
+   }
+  ]
+ },
+ {
+  "artist": "Britney Spears",
+  "link": "/britney-spears",
+  "songs": [
+   {
+    "title": "Criminal",
+    "link": "/criminal.txt"
+   }
+  ]
  }
 ]
