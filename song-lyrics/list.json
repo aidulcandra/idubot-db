@@ -3880,5 +3880,15 @@
     "link": "/1-2-3.txt"
    }
   ]
+ },
+ {
+  "artist": "The Beatles",
+  "link": "/the-beatles",
+  "songs": [
+   {
+    "title": "Yesterday",
+    "link": "/yesterday.txt"
+   }
+  ]
  }
 ]
