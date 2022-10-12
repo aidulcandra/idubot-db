@@ -3956,5 +3956,15 @@
     "link": "/how.txt"
    }
   ]
+ },
+ {
+  "artist": "Cheat Codes",
+  "link": "/cheat-codes",
+  "songs": [
+   {
+    "title": "Stay With You",
+    "link": "/stay-with-you.txt"
+   }
+  ]
  }
 ]
