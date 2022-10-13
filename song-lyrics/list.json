@@ -4004,5 +4004,15 @@
     "link": "/cahaya.txt"
    }
   ]
+ },
+ {
+  "artist": "Jin",
+  "link": "/jin",
+  "songs": [
+   {
+    "title": "Summertime Record",
+    "link": "/summertime-record.txt"
+   }
+  ]
  }
 ]
