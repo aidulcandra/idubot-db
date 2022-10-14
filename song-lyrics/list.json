@@ -8090,5 +8090,15 @@
     "link": "/always.txt"
    }
   ]
+ },
+ {
+  "artist": "Vocaloid Original Songs",
+  "link": "/vocaloid-original-songs",
+  "songs": [
+   {
+    "title": "Kokoronashi - Somehow",
+    "link": "/kokoronashi---somehow.txt"
+   }
+  ]
  }
 ]
