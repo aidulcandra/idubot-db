@@ -8120,5 +8120,15 @@
     "link": "/la-di-da.txt"
    }
   ]
+ },
+ {
+  "artist": "Miguel",
+  "link": "/miguel",
+  "songs": [
+   {
+    "title": "Remember Me (Dúo)",
+    "link": "/remember-me-do.txt"
+   }
+  ]
  }
 ]
