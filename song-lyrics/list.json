@@ -8080,5 +8080,15 @@
     "link": "/nande-mo-nai-ya---its-nothing.txt"
    }
   ]
+ },
+ {
+  "artist": "Bon Jovi",
+  "link": "/bon-jovi",
+  "songs": [
+   {
+    "title": "Always",
+    "link": "/always.txt"
+   }
+  ]
  }
 ]
