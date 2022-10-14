@@ -8110,5 +8110,15 @@
     "link": "/after-like.txt"
    }
   ]
+ },
+ {
+  "artist": "Everglow",
+  "link": "/everglow",
+  "songs": [
+   {
+    "title": "LA DI DA",
+    "link": "/la-di-da.txt"
+   }
+  ]
  }
 ]
