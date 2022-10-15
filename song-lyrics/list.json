@@ -8190,5 +8190,15 @@
     "link": "/alive.txt"
    }
   ]
+ },
+ {
+  "artist": "Poets of the Fall",
+  "link": "/poets-of-the-fall",
+  "songs": [
+   {
+    "title": "Carnival of Rust",
+    "link": "/carnival-of-rust.txt"
+   }
+  ]
  }
 ]
