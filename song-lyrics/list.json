@@ -8214,5 +8214,15 @@
     "link": "/hacking-to-the-gate.txt"
    }
   ]
+ },
+ {
+  "artist": "Daniel Powter",
+  "link": "/daniel-powter",
+  "songs": [
+   {
+    "title": "Bad Day",
+    "link": "/bad-day.txt"
+   }
+  ]
  }
 ]
