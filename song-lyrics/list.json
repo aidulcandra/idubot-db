@@ -8204,5 +8204,15 @@
     "link": "/carnival-of-rust.txt"
    }
   ]
+ },
+ {
+  "artist": "Kanako Itō",
+  "link": "/kanako-it",
+  "songs": [
+   {
+    "title": "Hacking to the Gate",
+    "link": "/hacking-to-the-gate.txt"
+   }
+  ]
  }
 ]
