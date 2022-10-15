@@ -8180,5 +8180,15 @@
     "link": "/flashlight.txt"
    }
   ]
+ },
+ {
+  "artist": "NARUTO",
+  "link": "/naruto",
+  "songs": [
+   {
+    "title": "ALIVE",
+    "link": "/alive.txt"
+   }
+  ]
  }
 ]
