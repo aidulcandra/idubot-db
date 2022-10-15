@@ -8224,5 +8224,15 @@
     "link": "/bad-day.txt"
    }
   ]
+ },
+ {
+  "artist": "Celine Dion",
+  "link": "/celine-dion",
+  "songs": [
+   {
+    "title": "The Power Of Love",
+    "link": "/the-power-of-love.txt"
+   }
+  ]
  }
 ]
