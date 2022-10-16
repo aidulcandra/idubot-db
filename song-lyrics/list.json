@@ -8326,5 +8326,15 @@
     "link": "/cari-jodoh.txt"
    }
   ]
+ },
+ {
+  "artist": "Ethan Dufault",
+  "link": "/ethan-dufault",
+  "songs": [
+   {
+    "title": "Honest",
+    "link": "/honest.txt"
+   }
+  ]
  }
 ]
