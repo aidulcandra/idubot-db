@@ -8336,5 +8336,15 @@
     "link": "/honest.txt"
    }
   ]
+ },
+ {
+  "artist": "Juice Newton",
+  "link": "/juice-newton",
+  "songs": [
+   {
+    "title": "Queen of Hearts",
+    "link": "/queen-of-hearts.txt"
+   }
+  ]
  }
 ]
