@@ -8396,5 +8396,15 @@
     "link": "/everything.txt"
    }
   ]
+ },
+ {
+  "artist": "Khalid",
+  "link": "/khalid",
+  "songs": [
+   {
+    "title": "lovely",
+    "link": "/lovely.txt"
+   }
+  ]
  }
 ]
