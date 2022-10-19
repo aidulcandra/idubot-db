@@ -8548,5 +8548,15 @@
     "link": "/janji-setia.txt"
    }
   ]
+ },
+ {
+  "artist": "Juice WRLD",
+  "link": "/juice-wrld",
+  "songs": [
+   {
+    "title": "Fast",
+    "link": "/fast.txt"
+   }
+  ]
  }
 ]
