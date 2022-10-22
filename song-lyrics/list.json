@@ -8724,5 +8724,15 @@
     "link": "/first-love.txt"
    }
   ]
+ },
+ {
+  "artist": "Doris Day",
+  "link": "/doris-day",
+  "songs": [
+   {
+    "title": "Whatever Will Be, Will Be (Que sera, sera)",
+    "link": "/whatever-will-be-will-be-que-sera-sera.txt"
+   }
+  ]
  }
 ]
