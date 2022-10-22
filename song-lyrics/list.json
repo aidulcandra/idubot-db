@@ -8744,5 +8744,15 @@
     "link": "/a-thousand-years.txt"
    }
   ]
+ },
+ {
+  "artist": "Bryan Adams",
+  "link": "/bryan-adams",
+  "songs": [
+   {
+    "title": "Heaven",
+    "link": "/heaven.txt"
+   }
+  ]
  }
 ]
