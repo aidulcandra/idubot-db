@@ -8714,5 +8714,15 @@
     "link": "/boys-like-you.txt"
    }
   ]
+ },
+ {
+  "artist": "Hikaru Utada",
+  "link": "/hikaru-utada",
+  "songs": [
+   {
+    "title": "First Love",
+    "link": "/first-love.txt"
+   }
+  ]
  }
 ]
