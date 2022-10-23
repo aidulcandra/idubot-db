@@ -8856,5 +8856,15 @@
     "link": "/miss-me-more.txt"
    }
   ]
+ },
+ {
+  "artist": "Kodaline",
+  "link": "/kodaline",
+  "songs": [
+   {
+    "title": "All I Want",
+    "link": "/all-i-want.txt"
+   }
+  ]
  }
 ]
