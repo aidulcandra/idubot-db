@@ -8792,5 +8792,15 @@
     "link": "/whatever-will-be-will-be-que-sera-sera.txt"
    }
   ]
+ },
+ {
+  "artist": "Emelie Hollow",
+  "link": "/emelie-hollow",
+  "songs": [
+   {
+    "title": "Lily",
+    "link": "/lily.txt"
+   }
+  ]
  }
 ]
