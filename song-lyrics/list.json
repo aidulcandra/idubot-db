@@ -8866,5 +8866,15 @@
     "link": "/all-i-want.txt"
    }
   ]
+ },
+ {
+  "artist": "Arctic Monkeys",
+  "link": "/arctic-monkeys",
+  "songs": [
+   {
+    "title": "I Wanna Be Yours",
+    "link": "/i-wanna-be-yours.txt"
+   }
+  ]
  }
 ]
