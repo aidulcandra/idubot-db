@@ -8836,5 +8836,15 @@
     "link": "/overdose.txt"
    }
   ]
+ },
+ {
+  "artist": "Selena Gomez",
+  "link": "/selena-gomez",
+  "songs": [
+   {
+    "title": "People You Know",
+    "link": "/people-you-know.txt"
+   }
+  ]
  }
 ]
