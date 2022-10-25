@@ -9110,5 +9110,15 @@
     "link": "/do-you-want-to-build-a-snowman.txt"
    }
   ]
+ },
+ {
+  "artist": "Idina Menzel",
+  "link": "/idina-menzel",
+  "songs": [
+   {
+    "title": "Let It Go",
+    "link": "/let-it-go.txt"
+   }
+  ]
  }
 ]
