@@ -9050,5 +9050,15 @@
     "link": "/to-my-youth.txt"
    }
   ]
+ },
+ {
+  "artist": "Lalisa Manoban",
+  "link": "/lalisa-manoban",
+  "songs": [
+   {
+    "title": "MONEY",
+    "link": "/money.txt"
+   }
+  ]
  }
 ]
