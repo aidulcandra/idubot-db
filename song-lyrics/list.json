@@ -9130,5 +9130,15 @@
     "link": "/a-whole-new-world.txt"
    }
   ]
+ },
+ {
+  "artist": "New Order",
+  "link": "/new-order",
+  "songs": [
+   {
+    "title": "Bizarre Love Triangle",
+    "link": "/bizarre-love-triangle.txt"
+   }
+  ]
  }
 ]
