@@ -9360,5 +9360,15 @@
     "link": "/satu-kali.txt"
    }
   ]
+ },
+ {
+  "artist": "Daoko",
+  "link": "/daoko",
+  "songs": [
+   {
+    "title": "Uchiagehanabi",
+    "link": "/uchiagehanabi.txt"
+   }
+  ]
  }
 ]
