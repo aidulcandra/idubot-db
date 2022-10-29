@@ -9432,5 +9432,15 @@
     "link": "/up.txt"
    }
   ]
+ },
+ {
+  "artist": "Anne-Marie",
+  "link": "/anne-marie",
+  "songs": [
+   {
+    "title": "FRIENDS",
+    "link": "/friends.txt"
+   }
+  ]
  }
 ]
