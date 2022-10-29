@@ -9418,5 +9418,15 @@
     "link": "/hero.txt"
    }
   ]
+ },
+ {
+  "artist": "Sean Paul",
+  "link": "/sean-paul",
+  "songs": [
+   {
+    "title": "UP",
+    "link": "/up.txt"
+   }
+  ]
  }
 ]
