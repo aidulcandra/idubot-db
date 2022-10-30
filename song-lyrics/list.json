@@ -9490,5 +9490,15 @@
     "link": "/ff.txt"
    }
   ]
+ },
+ {
+  "artist": "alüto",
+  "link": "/alto",
+  "songs": [
+   {
+    "title": "Michi To You All",
+    "link": "/michi-to-you-all.txt"
+   }
+  ]
  }
 ]
