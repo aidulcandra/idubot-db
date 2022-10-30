@@ -9518,5 +9518,15 @@
     "link": "/blue-bird.txt"
    }
   ]
+ },
+ {
+  "artist": "Zayn",
+  "link": "/zayn",
+  "songs": [
+   {
+    "title": "rEaR vIeW",
+    "link": "/rear-view.txt"
+   }
+  ]
  }
 ]
