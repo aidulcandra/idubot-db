@@ -9674,5 +9674,15 @@
     "link": "/the-hate-goes-on.txt"
    }
   ]
+ },
+ {
+  "artist": "Artists",
+  "link": "/artists",
+  "songs": [
+   {
+    "title": "Bad Azz, JellyRoll, and Blaqthoven",
+    "link": "/bad-azz-jellyroll-and-blaqthoven.txt"
+   }
+  ]
  }
 ]
