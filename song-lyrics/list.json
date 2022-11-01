@@ -9694,5 +9694,15 @@
     "link": "/tell-me-why.txt"
    }
   ]
+ },
+ {
+  "artist": "Backstreet Boys",
+  "link": "/backstreet-boys",
+  "songs": [
+   {
+    "title": "I Want It That Way",
+    "link": "/i-want-it-that-way.txt"
+   }
+  ]
  }
 ]
