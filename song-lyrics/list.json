@@ -9868,5 +9868,15 @@
     "link": "/sin-pijama.txt"
    }
   ]
+ },
+ {
+  "artist": "Oasis",
+  "link": "/oasis",
+  "songs": [
+   {
+    "title": "Wonderwall",
+    "link": "/wonderwall.txt"
+   }
+  ]
  }
 ]
