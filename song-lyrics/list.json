@@ -9926,5 +9926,15 @@
     "link": "/peter-pan.txt"
    }
   ]
+ },
+ {
+  "artist": "Kangen Band",
+  "link": "/kangen-band",
+  "songs": [
+   {
+    "title": "Terbang Bersamaku",
+    "link": "/terbang-bersamaku.txt"
+   }
+  ]
  }
 ]
