@@ -1,0 +1,100 @@
+Teruntuk kamu hidup dan matiku
+Aku tak tahu lagi harus dengan kata apa aku menuliskannya
+Atau dengan kalimat apa aku mengungkapkannya
+Karna untuk kepergian kalinya
+Kau buat aku kembali percaya akan kata cinta
+Dan benar bahwa cinta masih berkuasa diatas segalanya
+Ketika hati yang mudah rapuh ini
+Diuji oleh duniawi diuji oleh materi
+Untuk kesekian kali lagi lagi dan lagi
+Kutuliskan kenangan tentang
+Caraku menemukan dirimu
+Tentang apa yang membuatku mudah
+Berikan hatiku padamu
+Takkan habis sejuta lagu
+Untuk menceritakan cantikmu
+Kan teramat panjang puisi
+Tuk menyuratkan cinta ini
+Telah habis sudah cinta ini
+Tak lagi tersisa untuk dunia
+Karena tlah kuhabiskan
+Sisa cintaku hanya untukmu
+Aku pernah berpikir tentang
+Hidupku tanpa ada dirimu
+Dapatkah lebih indah dari
+Yang kujalani sampai kini
+Aku slalu bermimpi tentang
+Indah hari tua bersamamu
+Tetap cantik rambut panjangmu
+Meskipun nanti tak hitam lagi
+Bila habis sudah waktu ini
+Tak lagi berpijak pada dunia
+Telah aku habiskan
+Sisa hidupku hanya untukmu
+Dan tlah habis sudah cinta ini
+Tak lagi tersisa untuk dunia
+Karena tlah kuhabiskan
+Sisa cintaku hanya untukmu
+Untukmu
+Hidup dan matiku
+Bila musim berganti
+Sampai waktu terhenti
+Walau dunia membenci
+Ku kan tetap disini
+Bila habis sudah waktu ini
+Tak lagi berpijak pada dunia
+Telah aku habiskan
+Sisa hidupku hanya untukmu
+Tlah habis sudah cinta ini
+Tak lagi tersisa untuk dunia
+Karena tlah kuhabiskan
+Sisa cintaku hanya untukmu
+Karena tlah kuhabiskan
+Sisa cintaku hanya untukmu
+
+
+Sudah tahu Yang Ini Belum?Eksplorasi Musik Virgoun Setelah Lepas Dari Last Child
+					
+					
+					
+					
+						.video-contentwatch{
+							padding:0;
+							min-height:auto;
+							margin-top:20px;
+						}
+						.video-contentwatch-container{
+							position: relative;
+							padding-bottom: 57%;
+							background-size: cover;
+							background-color: #000;
+						}
+						.video-contentwatch-container iframe.videoframe{
+							background-color: #000;
+							position: absolute;
+							top: 0;
+							left: 0;
+							width: 100%;
+							height: 100%;
+						}
+						.video-contentwatch.vidio .video-contentwatch-container,
+						.video-contentwatch.vidio .video-contentwatch-container iframe.videoframe{
+							background-color: transparent;
+						}
+						.video-contentwatch-play{
+							background-image: url("https://cdns.klimg.com/kapanlagi.com/v5/i/homepage-sprite.png");
+							background-position: -12px -122px;
+							height: 46px;
+							width: 65px;
+							position: absolute;
+							top: 50%;
+							left: 50%;
+							margin-left: -23px;
+							margin-top: -32.5px;
+						}
+						.video-contentwatch-credit{
+							padding:5px 10px;
+							color:#fff;
+							text-align:left;
+						}
+Eksplorasi Musik Virgoun Setelah Lepas Dari Last Child
