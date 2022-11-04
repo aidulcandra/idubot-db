@@ -10044,5 +10044,15 @@
     "link": "/atlantis.txt"
    }
   ]
+ },
+ {
+  "artist": "Shane Filan",
+  "link": "/shane-filan",
+  "songs": [
+   {
+    "title": "Beautiful In White",
+    "link": "/beautiful-in-white.txt"
+   }
+  ]
  }
 ]
