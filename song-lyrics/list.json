@@ -10104,5 +10104,15 @@
     "link": "/my-immortal.txt"
    }
   ]
+ },
+ {
+  "artist": "Daun Jatuh",
+  "link": "/daun-jatuh",
+  "songs": [
+   {
+    "title": "Resah Jadi Luka",
+    "link": "/resah-jadi-luka.txt"
+   }
+  ]
  }
 ]
