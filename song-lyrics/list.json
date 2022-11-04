@@ -10094,5 +10094,15 @@
     "link": "/immortal.txt"
    }
   ]
+ },
+ {
+  "artist": "Evanescence",
+  "link": "/evanescence",
+  "songs": [
+   {
+    "title": "My Immortal",
+    "link": "/my-immortal.txt"
+   }
+  ]
  }
 ]
