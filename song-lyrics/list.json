@@ -10124,5 +10124,15 @@
     "link": "/my-heart.txt"
    }
   ]
+ },
+ {
+  "artist": "Frawley",
+  "link": "/frawley",
+  "songs": [
+   {
+    "title": "If I Don't Laugh, I'll Cry",
+    "link": "/if-i-dont-laugh-ill-cry.txt"
+   }
+  ]
  }
 ]
